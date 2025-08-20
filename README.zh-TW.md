@@ -2,14 +2,29 @@
 
 提供古代修仙美女主題的 wildcards 提示詞，適用於 Stable Diffusion (特別是 Pony XL 模型)。
 
+## 安裝
+
+### Stable Diffusion WebUI
+
+1. 安裝 [Wildcards](https://github.com/AUTOMATIC1111/stable-diffusion-webui-wildcards) 擴充套件。
+2. 將 `xianxia` 資料夾放到 stable-diffusion-webui 安裝路徑的 `extensions/stable-diffusion-webui-wildcards/wildcards/` 資料夾下。
+
+### ComfyUI
+
+1. 安裝支援 wildcards 格式的 ComfyUI 節點套件。
+2. 將 `xianxia` 資料夾放到該節點套件的 `wildcards/` 資料夾下。
+
 ## 使用方式
 
-1. 將這些文字檔放到 `wildcards/xianxia/` 資料夾下。
-2. 在 prompt 中使用 `__xianxia/filename__` 的方式來隨機選取該檔案中的一行。
-   例如：
-   ```
-   A beautiful xianxia immortal girl, wearing __xianxia/tops__, with __xianxia/makeup/forehead__, in __xianxia/poses__, background is __xianxia/backgrounds__.
-   ```
+你可以使用以下提示詞來使用這組 wildcards ：
+
+```
+xianxia beauty, __xianxia/colors__ tone, wearing __xianxia/tops__ with __xianxia/sleeves__, __xianxia/skirts__, __xianxia/shoes__,
+decorated with __xianxia/decorations/hair__ and __xianxia/decorations/jewelry__,
+pose as __xianxia/poses__, background is __xianxia/backgrounds__,
+with __xianxia/makeup/eyes__ and __xianxia/makeup/forehead__, hairstyle is __xianxia/makeup/hair__,
+accessories: __xianxia/decorations/others__
+```
 
 ## 檔案列表
 
@@ -27,13 +42,3 @@
 - decorations/hair.txt — 髮飾 (100 種)
 - decorations/jewelry.txt — 首飾 (100 種)
 - decorations/others.txt — 其他裝飾 (100 種)
-
-## 範例 Prompt
-
-```
-xianxia beauty, __xianxia/colors__ tone, wearing __xianxia/tops__ with __xianxia/sleeves__, __xianxia/skirts__, __xianxia/shoes__,
-decorated with __xianxia/decorations/hair__ and __xianxia/decorations/jewelry__,
-pose as __xianxia/poses__, background is __xianxia/backgrounds__,
-with __xianxia/makeup/eyes__ and __xianxia/makeup/forehead__, hairstyle is __xianxia/makeup/hair__,
-accessories: __xianxia/decorations/others__
-```

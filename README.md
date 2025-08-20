@@ -2,19 +2,34 @@
 
 Provides wildcards prompts for ancient Chinese xianxia (cultivation) beauty themes, suitable for Stable Diffusion (especially Pony XL models).
 
-## Usage Instructions
+## Installation
 
-1. Place these text files in the `wildcards/xianxia/` folder.
-2. Use the `__xianxia/filename__` format in your prompts to randomly select a line from the corresponding file.
-   For example:
-   ```
-   A beautiful xianxia immortal girl, wearing __xianxia/tops__, with __xianxia/makeup/forehead__, in __xianxia/poses__, background is __xianxia/backgrounds__.
-   ```
+### Stable Diffusion WebUI
+
+1. Install the [Wildcards](https://github.com/AUTOMATIC1111/stable-diffusion-webui-wildcards) extension.
+2. Place the `xianxia` folder under `extensions/stable-diffusion-webui-wildcards/wildcards/` in your stable-diffusion-webui installation directory.
+
+### ComfyUI
+
+1. Install a ComfyUI node package that supports wildcards format.
+2. Place the `xianxia` folder under the `wildcards/` directory of that node package.
+
+## Usage
+
+You can use the following prompt to utilize these wildcards:
+
+```
+xianxia beauty, __xianxia/colors__ tone, wearing __xianxia/tops__ with __xianxia/sleeves__, __xianxia/skirts__, __xianxia/shoes__,
+decorated with __xianxia/decorations/hair__ and __xianxia/decorations/jewelry__,
+pose as __xianxia/poses__, background is __xianxia/backgrounds__,
+with __xianxia/makeup/eyes__ and __xianxia/makeup/forehead__, hairstyle is __xianxia/makeup/hair__,
+accessories: __xianxia/decorations/others__
+```
 
 ## File List
 
 - colors.txt — Image color tones (100 varieties)
-- poses.txt — Poses (100 varieties)
+- poses.txt — Sexy poses (100 varieties)
 - backgrounds.txt — Backgrounds (100 varieties)
 - makeup/eyes.txt — Eye makeup (100 varieties)
 - makeup/forehead.txt — Forehead markings (100 varieties)
@@ -27,13 +42,3 @@ Provides wildcards prompts for ancient Chinese xianxia (cultivation) beauty them
 - decorations/hair.txt — Hair accessories (100 varieties)
 - decorations/jewelry.txt — Jewelry (100 varieties)
 - decorations/others.txt — Other decorations (100 varieties)
-
-## Example Prompt
-
-```
-xianxia beauty, __xianxia/colors__ tone, wearing __xianxia/tops__ with __xianxia/sleeves__, __xianxia/skirts__, __xianxia/shoes__,
-decorated with __xianxia/decorations/hair__ and __xianxia/decorations/jewelry__,
-pose as __xianxia/poses__, background is __xianxia/backgrounds__,
-with __xianxia/makeup/eyes__ and __xianxia/makeup/forehead__, hairstyle is __xianxia/makeup/hair__,
-accessories: __xianxia/decorations/others__
-```
