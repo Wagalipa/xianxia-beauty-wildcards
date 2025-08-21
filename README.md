@@ -19,7 +19,7 @@ Provides wildcards prompts for ancient Chinese xianxia (cultivation) beauty them
 You can use the following prompt to utilize these wildcards:
 
 ```
-xianxia beauty, __xianxia/colors__ tone, wearing __xianxia/tops__ with __xianxia/sleeves__, __xianxia/skirts__, __xianxia/shoes__,
+xianxia beauty, __xianxia/races__ character, __xianxia/colors__ tone, wearing __xianxia/tops__ with __xianxia/sleeves__, __xianxia/skirts__, __xianxia/shoes__,
 decorated with __xianxia/decorations/hair__ and __xianxia/decorations/jewelry__,
 pose as __xianxia/poses__, background is __xianxia/backgrounds__,
 with __xianxia/makeup/eyes__ and __xianxia/makeup/forehead__, hairstyle is __xianxia/makeup/hair__,
@@ -30,7 +30,7 @@ lighting: __xianxia/lighting__, texture: __xianxia/textures__, season: __xianxia
 ### Advanced Usage Examples
 
 ```
-beautiful xianxia maiden, __xianxia/colors_advanced__ with __xianxia/textures__ surface,
+beautiful __xianxia/races__ xianxia maiden, __xianxia/colors_advanced__ with __xianxia/textures__ surface,
 wearing elegant __xianxia/qipao__ with __xianxia/collars__ and __xianxia/skirt_details__,
 __xianxia/hairstyles_advanced__ with __xianxia/eyebrows__ and __xianxia/accessories_advanced__,
 __xianxia/actions_advanced__ in __xianxia/environments__ setting,
@@ -44,6 +44,7 @@ surrounded by __xianxia/seasons__ atmosphere
 
 ### Basic Categories
 - colors.txt — Image color tones (100 varieties)
+- races.txt — Character races (100 varieties)
 - poses.txt — Sexy poses (100 varieties)
 - backgrounds.txt — Backgrounds (100 varieties)
 - tops.txt — Upper garments (100 varieties)
