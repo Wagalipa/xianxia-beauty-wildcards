@@ -8,7 +8,7 @@
 ```
 masterpiece, best quality, ultra detailed, 8k, photorealistic, 
 
-beautiful __xianxia/races__ xianxia maiden, __xianxia/primary_colors__ dominant color with __xianxia/colors_advanced__ and __xianxia/colors__ secondary tones, __xianxia/textures__ surface texture,
+beautiful __xianxia/races__ xianxia maiden, __xianxia/primary_colors__ dominant color dress with __xianxia/colors_advanced__ and __xianxia/colors__ secondary tones, __xianxia/textures__ surface texture,
 wearing elegant __xianxia/qipao__ with __xianxia/collars__ collar and __xianxia/tops__ over __xianxia/sleeves__ sleeves,
 __xianxia/skirts__ with __xianxia/skirt_details__ and __xianxia/belts__ belt, __xianxia/shoes__ footwear,
 

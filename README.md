@@ -16,28 +16,6 @@ Provides wildcards prompts for ancient Chinese xianxia (cultivation) beauty them
 
 ## Usage
 
-You can use the following prompt to utilize these wildcards:
-
-```
-xianxia beauty, __xianxia/races__ character, __xianxia/primary_colors__ dominant color, wearing __xianxia/tops__ with __xianxia/sleeves__, __xianxia/skirts__, __xianxia/shoes__,
-decorated with __xianxia/decorations/hair__ and __xianxia/decorations/jewelry__,
-pose as __xianxia/poses__, background is __xianxia/backgrounds__,
-with __xianxia/makeup/eyes__ and __xianxia/makeup/forehead__, hairstyle is __xianxia/makeup/hair__,
-accessories: __xianxia/decorations/others__, __xianxia/emotions__ expression,
-lighting: __xianxia/lighting__, texture: __xianxia/textures__, season: __xianxia/seasons__
-```
-
-### Advanced Usage Examples
-
-```
-beautiful __xianxia/races__ xianxia maiden, __xianxia/colors_advanced__ with __xianxia/textures__ surface,
-wearing elegant __xianxia/qipao__ with __xianxia/collars__ and __xianxia/skirt_details__,
-__xianxia/hairstyles_advanced__ with __xianxia/eyebrows__ and __xianxia/accessories_advanced__,
-__xianxia/actions_advanced__ in __xianxia/environments__ setting,
-__xianxia/emotions__ expression with __xianxia/lighting__ illumination,
-surrounded by __xianxia/seasons__ atmosphere
-```
-
 📋 **For more prompt examples, see: [PROMPT_EXAMPLES.md](PROMPT_EXAMPLES.md)**
 
 ## File List
