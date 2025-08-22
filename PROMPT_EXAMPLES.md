@@ -8,7 +8,7 @@ Use this prompt to utilize all wildcard categories:
 ```
 masterpiece, best quality, ultra detailed, 8k, photorealistic, 
 
-beautiful __xianxia/races__ xianxia maiden, __xianxia/colors_advanced__ and __xianxia/colors__ tones with __xianxia/textures__ surface texture,
+beautiful __xianxia/races__ xianxia maiden, __xianxia/primary_colors__ dominant color with __xianxia/colors_advanced__ and __xianxia/colors__ secondary tones, __xianxia/textures__ surface texture,
 wearing elegant __xianxia/qipao__ with __xianxia/collars__ collar and __xianxia/tops__ over __xianxia/sleeves__ sleeves,
 __xianxia/skirts__ with __xianxia/skirt_details__ and __xianxia/belts__ belt, __xianxia/shoes__ footwear,
 
@@ -47,7 +47,7 @@ wearing elegant __xianxia/qipao__ or __xianxia/tops__ with __xianxia/collars__ c
 __xianxia/skirts__ with __xianxia/skirt_details__ details, __xianxia/belts__ belt, __xianxia/shoes__ footwear,
 
 /* Colors & Materials */
-__xianxia/colors_advanced__ and __xianxia/colors__ color scheme, __xianxia/textures__ fabric texture,
+__xianxia/primary_colors__ primary color, __xianxia/colors_advanced__ and __xianxia/colors__ color accents, __xianxia/textures__ fabric texture,
 
 /* Accessories */
 adorned with __xianxia/decorations/jewelry__ jewelry, __xianxia/decorations/others__ and __xianxia/accessories_advanced__ accessories,

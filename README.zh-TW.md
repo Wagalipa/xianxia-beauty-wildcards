@@ -19,7 +19,7 @@
 你可以使用以下提示詞來使用這組 wildcards ：
 
 ```
-xianxia beauty, __xianxia/races__ character, __xianxia/colors__ tone, wearing __xianxia/tops__ with __xianxia/sleeves__, __xianxia/skirts__, __xianxia/shoes__,
+xianxia beauty, __xianxia/races__ character, __xianxia/primary_colors__ dominant color, wearing __xianxia/tops__ with __xianxia/sleeves__, __xianxia/skirts__, __xianxia/shoes__,
 decorated with __xianxia/decorations/hair__ and __xianxia/decorations/jewelry__,
 pose as __xianxia/poses__, background is __xianxia/backgrounds__,
 with __xianxia/makeup/eyes__ and __xianxia/makeup/forehead__, hairstyle is __xianxia/makeup/hair__,
@@ -44,6 +44,7 @@ surrounded by __xianxia/seasons__ atmosphere
 
 ### 基本分類
 - colors.txt — 圖片主色調 (100 種)
+- primary_colors.txt — 強化主色調 (100 種) ⭐ **NEW** 
 - races.txt — 種族類型 (100 種)
 - poses.txt — 性感姿勢 (100 種)
 - backgrounds.txt — 背景 (100 種)
@@ -77,3 +78,16 @@ surrounded by __xianxia/seasons__ atmosphere
 - accessories_advanced.txt — 進階配件 (100 種)
 - actions_advanced.txt — 進階動作 (100 種)
 - colors_advanced.txt — 進階色彩 (100 種)
+
+## 💡 色彩使用提示
+
+如果您發現生成的圖片主色調總是偏向白色，建議使用 `primary_colors.txt` 替代 `colors.txt`：
+
+- `primary_colors.txt` — 專為強化主色調設計，包含純淨的紅、黑、藍、青、綠、黃、粉紅等基本顏色
+- `colors.txt` — 包含複雜的色彩描述，適合做為輔助色彩
+- `colors_advanced.txt` — 適合做為材質和質感的色彩描述
+
+**推薦使用方式：**
+```
+__xianxia/primary_colors__ dominant color, __xianxia/colors__ accent tones
+```

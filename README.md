@@ -19,7 +19,7 @@ Provides wildcards prompts for ancient Chinese xianxia (cultivation) beauty them
 You can use the following prompt to utilize these wildcards:
 
 ```
-xianxia beauty, __xianxia/races__ character, __xianxia/colors__ tone, wearing __xianxia/tops__ with __xianxia/sleeves__, __xianxia/skirts__, __xianxia/shoes__,
+xianxia beauty, __xianxia/races__ character, __xianxia/primary_colors__ dominant color, wearing __xianxia/tops__ with __xianxia/sleeves__, __xianxia/skirts__, __xianxia/shoes__,
 decorated with __xianxia/decorations/hair__ and __xianxia/decorations/jewelry__,
 pose as __xianxia/poses__, background is __xianxia/backgrounds__,
 with __xianxia/makeup/eyes__ and __xianxia/makeup/forehead__, hairstyle is __xianxia/makeup/hair__,
@@ -44,6 +44,7 @@ surrounded by __xianxia/seasons__ atmosphere
 
 ### Basic Categories
 - colors.txt — Image color tones (100 varieties)
+- primary_colors.txt — Enhanced primary colors (100 varieties) ⭐ **NEW** 
 - races.txt — Character races (100 varieties)
 - poses.txt — Sexy poses (100 varieties)
 - backgrounds.txt — Backgrounds (100 varieties)
@@ -77,3 +78,16 @@ surrounded by __xianxia/seasons__ atmosphere
 - accessories_advanced.txt — Advanced accessories (100 varieties)
 - actions_advanced.txt — Advanced actions (100 varieties)
 - colors_advanced.txt — Advanced colors (100 varieties)
+
+## 💡 Color Usage Tips
+
+If you find that generated images tend to have predominantly white colors, try using `primary_colors.txt` instead of `colors.txt`:
+
+- `primary_colors.txt` — Designed specifically to enhance primary colors, containing pure red, black, blue, cyan, green, yellow, pink, and other basic colors
+- `colors.txt` — Contains complex color descriptions, suitable as accent colors
+- `colors_advanced.txt` — Suitable for material and texture color descriptions
+
+**Recommended usage:**
+```
+__xianxia/primary_colors__ dominant color, __xianxia/colors__ accent tones
+```
