@@ -57,12 +57,26 @@ bird whistle with avian calls
 animal horn with hunting signals
 conch shell with oceanic voice
 bamboo horn with hollow resonance
-metal trumpet with bright fanfare
-wooden flute with earthy tones
-reed pipe with breathy whispers
-mouth harp with intimate sounds
-finger piano with delicate plinking
-thumb piano with African rhythms
+pipa lute with four strings
+erhu violin with two strings
+dizi bamboo flute with membrane
+xiao vertical bamboo flute
+guzheng zither with many strings
+yangqin hammered dulcimer
+sheng mouth organ with bamboo pipes
+suona horn with loud piercing sound
+ruan moon guitar with round body
+liuqin willow leaf lute
+sanxian three-string plucked instrument
+konghou ancient harp
+bianzhong bronze bell set
+gong bronze percussion instrument
+bian drum with wooden frame
+muyu wooden fish percussion
+tanggu ceremonial drum
+diangu small hand drum
+luo small gong with clear tone
+qin seven-string ancient zither
 music box with mechanical melody
 wind-up toy with clockwork movement
 mechanical bird with automated song
