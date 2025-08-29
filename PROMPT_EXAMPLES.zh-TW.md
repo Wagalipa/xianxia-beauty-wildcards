@@ -9,7 +9,7 @@
 masterpiece, best quality, ultra detailed, 8k, photorealistic,
 beautiful __xianxia/races__ xianxia maiden, __xianxia/primary_colors__ dominant color dress with __xianxia/colors_advanced__ and __xianxia/colors__ secondary tones, __xianxia/textures__ surface texture,
 wearing elegant __xianxia/qipao__ with __xianxia/collars__ collar and __xianxia/tops__ over __xianxia/sleeves__ sleeves,
-__xianxia/skirts__ with __xianxia/skirt_details__ and __xianxia/belts__ belt, __xianxia/shoes__ footwear,
+__xianxia/skirts__ with __xianxia/skirt_details__ and __xianxia/belts__ belt, __xianxia/stockings__ legwear, __xianxia/shoes__ footwear,
 facial features: __xianxia/emotions__ expression, __xianxia/eyebrows__ eyebrows, __xianxia/makeup/eyes__ eye makeup, __xianxia/makeup/forehead__ forehead markings,
 hair styling: __xianxia/makeup/hair__ and __xianxia/hairstyles_advanced__ hairstyles,
 accessories: __xianxia/decorations/hair__ hair ornaments, __xianxia/decorations/jewelry__ jewelry, __xianxia/decorations/others__ and __xianxia/accessories_advanced__ additional accessories,
@@ -37,7 +37,7 @@ __xianxia/makeup/hair__ and __xianxia/hairstyles_advanced__ hair styling with __
 wearing elegant __xianxia/qipao__ or __xianxia/tops__ with __xianxia/collars__ collar and __xianxia/sleeves__ sleeves,
 
 /* 服裝 - 下身 */
-__xianxia/skirts__ with __xianxia/skirt_details__ details, __xianxia/belts__ belt, __xianxia/shoes__ footwear,
+__xianxia/skirts__ with __xianxia/skirt_details__ details, __xianxia/belts__ belt, __xianxia/stockings__ legwear, __xianxia/shoes__ footwear,
 
 /* 色彩與材質 */
 __xianxia/primary_colors__ primary color, __xianxia/colors_advanced__ and __xianxia/colors__ color accents, __xianxia/textures__ fabric texture,
@@ -64,7 +64,7 @@ elegant, graceful, mystical, detailed, intricate
 masterpiece, best quality, detailed,
 
 __xianxia/emotions__ __xianxia/races__ xianxia beauty, __xianxia/colors_advanced__ with __xianxia/textures__ texture,
-wearing __xianxia/qipao__ with __xianxia/collars__ and __xianxia/skirt_details__,
+wearing __xianxia/qipao__ with __xianxia/collars__ and __xianxia/skirt_details__, __xianxia/stockings__ legwear,
 __xianxia/hairstyles_advanced__ with __xianxia/eyebrows__, __xianxia/makeup/eyes__ and __xianxia/makeup/forehead__,
 decorated with __xianxia/decorations/hair__ and __xianxia/accessories_advanced__,
 __xianxia/actions_advanced__ in __xianxia/environments__ with __xianxia/lighting__,
@@ -76,7 +76,7 @@ surrounded by __xianxia/seasons__ atmosphere
 
 ```
 beautiful __xianxia/races__ xianxia maiden, __xianxia/colors__ and __xianxia/textures__,
-__xianxia/tops__ with __xianxia/sleeves__, __xianxia/skirts__ and __xianxia/shoes__,
+__xianxia/tops__ with __xianxia/sleeves__, __xianxia/skirts__, __xianxia/stockings__ and __xianxia/shoes__,
 __xianxia/makeup/hair__ with __xianxia/decorations/hair__ and __xianxia/decorations/jewelry__,
 __xianxia/poses__ in __xianxia/backgrounds__, __xianxia/lighting__ lighting
 ```
@@ -92,7 +92,7 @@ __xianxia/poses__ in __xianxia/backgrounds__, __xianxia/lighting__ lighting
 
 {__xianxia/qipao__|__xianxia/tops__} with __xianxia/collars__ and __xianxia/sleeves__,
 [__xianxia/skirts__|flowing robes] with __xianxia/skirt_details__ and __xianxia/belts__,
-__xianxia/shoes__ footwear,
+__xianxia/stockings__ legwear, __xianxia/shoes__ footwear,
 
 face: __xianxia/eyebrows__ brows, __xianxia/makeup/eyes__ eyes, __xianxia/makeup/forehead__ markings,
 hair: (__xianxia/makeup/hair__|__xianxia/hairstyles_advanced__) with __xianxia/decorations/hair__,
@@ -122,7 +122,7 @@ __xianxia/decorations/jewelry__ jewelry, __xianxia/lighting__ lighting
 masterpiece, best quality, full body,
 beautiful __xianxia/races__ xianxia maiden, __xianxia/emotions__ expression,
 __xianxia/qipao__ with __xianxia/skirt_details__ and __xianxia/belts__ belt,
-__xianxia/shoes__ footwear, __xianxia/colors_advanced__ colors,
+__xianxia/stockings__ legwear, __xianxia/shoes__ footwear, __xianxia/colors_advanced__ colors,
 __xianxia/poses__ pose, __xianxia/actions_advanced__ action,
 in __xianxia/environments__ setting, __xianxia/seasons__ atmosphere
 ```
@@ -137,10 +137,10 @@ atmospheric, detailed landscape
 ```
 
 ## 文件覆蓋摘要
-使用的 wildcards 文件總數：27 個
+使用的 wildcards 文件總數：28 個
 
-### 基本分類 (9 個文件)
-- colors.txt, races.txt, poses.txt, backgrounds.txt, tops.txt, sleeves.txt, belts.txt, skirts.txt, shoes.txt
+### 基本分類 (10 個文件)
+- colors.txt, races.txt, poses.txt, backgrounds.txt, tops.txt, sleeves.txt, belts.txt, skirts.txt, stockings.txt, shoes.txt
 
 ### 化妝造型 (3 個文件)  
 - makeup/eyes.txt, makeup/forehead.txt, makeup/hair.txt
