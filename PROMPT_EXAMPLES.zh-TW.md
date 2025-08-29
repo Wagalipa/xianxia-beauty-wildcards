@@ -6,22 +6,15 @@
 使用此提示詞來使用所有 wildcards 分類：
 
 ```
-masterpiece, best quality, ultra detailed, 8k, photorealistic, 
-
+masterpiece, best quality, ultra detailed, 8k, photorealistic,
 beautiful __xianxia/races__ xianxia maiden, __xianxia/primary_colors__ dominant color dress with __xianxia/colors_advanced__ and __xianxia/colors__ secondary tones, __xianxia/textures__ surface texture,
 wearing elegant __xianxia/qipao__ with __xianxia/collars__ collar and __xianxia/tops__ over __xianxia/sleeves__ sleeves,
 __xianxia/skirts__ with __xianxia/skirt_details__ and __xianxia/belts__ belt, __xianxia/shoes__ footwear,
-
 facial features: __xianxia/emotions__ expression, __xianxia/eyebrows__ eyebrows, __xianxia/makeup/eyes__ eye makeup, __xianxia/makeup/forehead__ forehead markings,
-
 hair styling: __xianxia/makeup/hair__ and __xianxia/hairstyles_advanced__ hairstyles,
-
 accessories: __xianxia/decorations/hair__ hair ornaments, __xianxia/decorations/jewelry__ jewelry, __xianxia/decorations/others__ and __xianxia/accessories_advanced__ additional accessories,
-
 pose: __xianxia/poses__ and __xianxia/actions_advanced__ in __xianxia/environments__ environment with __xianxia/backgrounds__ background,
-
 atmosphere: __xianxia/seasons__ seasonal elements, __xianxia/lighting__ lighting effects,
-
 detailed, intricate, elegant, graceful, mystical, ethereal
 ```
 

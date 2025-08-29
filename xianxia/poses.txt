@@ -1,112 +1,96 @@
-seductive arched back pose with flowing hair cascading down
-provocative side-lying on silk cushions with exposed shoulder blade
-sensual stretching arms above head with lifted ribcage
-alluring kneeling with one hand on hip, head tilted back
-captivating leaning against wall with crossed legs and sultry gaze
-enticing seated pose with legs elegantly crossed, chin resting on palm
-bewitching standing with hip thrust out, hand running through hair
-mesmerizing back-turned glance over bare shoulder with mysterious smile
-enchanting reclining with one knee raised, silk draping curves
-tantalizing sitting on edge with legs dangling, leaning forward slightly
-graceful ballet-inspired pose with one leg extended behind
-artistic contrapposto stance with weight shifted to one hip
-elegant swan-like neck extension with arms gracefully positioned
-sophisticated lounging pose with elbow propped on armrest
-refined sitting with ankles crossed and hands clasped over knee
-poised standing on tiptoes with arms reaching skyward
-dignified three-quarter profile with hands behind back
-statuesque pose with one hand on chest, looking upward
-classical Venus-inspired pose with flowing fabric strategically placed
-renaissance madonna pose with serene expression and gentle hands
-sensual bathing pose with water droplets on skin, arms crossed modestly
-alluring mirror reflection pose with intimate self-gazing
-captivating window silhouette with backlighting through sheer curtains
-enticing flower petal bath with rose petals floating around
-bewitching moonlight pose with shadows creating dramatic contrast
-mesmerizing candlelight scene with warm glow on curves
-enchanting morning stretch in bed with tousled hair
-tantalizing silk sheet embrace with fabric clinging to form
-seductive reading pose with book held close to chest
-provocative tea ceremony with delicate finger positioning
-artistic nude study pose with strategic fabric draping
-elegant boudoir pose with vintage furniture and soft lighting
-sophisticated dressing scene with mirror reflection and jewelry
-refined intimate portrait with direct eye contact
-graceful dance pose with flowing ribbons and extended limbs
-poised warrior stance with sword held elegantly at side
-dignified meditation pose with perfect spinal alignment
-statuesque goddess pose with arms outstretched to heavens
-classical Greek inspired pose with draped toga and golden ratio composition
-renaissance chiaroscuro lighting with dramatic shadows on curves
-sensual rain scene with wet fabric clinging to silhouette
-alluring wind-blown pose with hair and clothing in motion
-captivating underwater fantasy with flowing hair and fabric
-enticing garden scene with flower petals caught in wind
-bewitching starlight pose with celestial backdrop
-mesmerizing firelight dance with shadows playing on skin
-enchanting ice sculpture pose with crystalline formations
-tantalizing desert mirage with heat waves distorting form
-seductive forest nymph pose with natural lighting through trees
-provocative mountain peak pose with dramatic landscape
-artistic waterfall scene with mist creating ethereal atmosphere
-elegant hot spring pose with steam rising around figure
-sophisticated wine tasting pose with glass held delicately
-refined archery pose with perfect form and concentration
-graceful calligraphy scene with brush held with precision
-poised musical performance with instrument held intimately
-dignified flower arranging with delicate hand movements
-statuesque incense ceremony with smoke creating mystical atmosphere
-classical scholarly pose with scrolls and ancient texts
-renaissance artist's model pose with perfect anatomical positioning
-sensual silk weaving pose with threads creating patterns around body
-alluring pearl diving scene with underwater grace
-captivating butterfly catching pose with net held high
-enticing fruit picking pose reaching toward hanging branches
-bewitching star gazing pose lying on grass with telescope
-mesmerizing cloud watching pose with arms behind head
-enchanting morning dew collection with cupped hands
-tantalizing sunset yoga pose with perfect silhouette
-seductive midnight swim with moonlight reflecting on water
-provocative sunrise greeting with arms embracing the dawn
-artistic shadow play pose with multiple light sources
-elegant mirror maze scene with infinite reflections
-sophisticated prism light pose with rainbow colors on skin
-refined crystal ball gazing with mysterious expression
-graceful feather floating pose with delicate catching motion
-poised snowflake catching pose with tongue extended playfully
-dignified rain dancing pose with face upturned to sky
-statuesque lightning storm pose with dramatic electrical backdrop
-classical thunder listening pose with head tilted attentively
-renaissance wind goddess pose with fabric billowing dramatically
-sensual earth connection pose lying on natural ground
-alluring water nymph pose partially submerged in clear stream
-captivating fire spirit pose with flames dancing around figure
-enticing air elemental pose levitating with invisible support
-bewitching nature communion pose surrounded by forest creatures
-mesmerizing seasonal transition pose with changing environment
-enchanting time-lapse pose showing movement through space
-tantalizing dimension shift pose with reality bending around figure
-seductive dream sequence pose with surreal floating elements
-provocative awakening pose stretching in bed with morning light
-artistic sleep pose with peaceful expression and relaxed limbs
-elegant contemplation pose with finger thoughtfully on lips
-sophisticated decision-making pose with hands weighing options
-refined memory recall pose with distant look and gentle smile
-graceful future visioning pose with eyes focused on horizon
-poised present moment pose with perfect stillness and awareness
-dignified past reflection pose with nostalgic expression
-statuesque eternal pose transcending time and space
-classical infinite pose suggesting continuous movement
-renaissance divine pose channeling celestial energy
-sensual mortal pose embracing human vulnerability
-alluring immortal pose suggesting timeless beauty
-captivating transformation pose mid-change between states
-enticing evolution pose showing growth and development
-bewitching revolution pose with dynamic circular motion
-mesmerizing resolution pose with conflict beautifully resolved
-enchanting dissolution pose melting into surrounding environment
-tantalizing reconstitution pose reforming from ethereal elements
-seductive final pose with perfect closure and artistic completion
-provocative eternal return pose suggesting infinite cyclical beauty
-artistic transcendence pose rising above physical limitations
-elegant apotheosis pose achieving divine perfection through grace
+standing, one hand on hip, (hip tilt:1.15), full body, (dynamic pose:1.15)
+standing, hands on hips, (hip tilt:1.15), full body, (dynamic pose:1.1)
+standing, arms up, hands up, (dynamic pose:1.2), full body
+standing, tiptoes, stretched body, (tiptoes:1.15), (dynamic pose:1.2), full body
+standing, one leg up, (body twist:1.2), (dynamic pose:1.2), full body
+standing, arched back, (arched back:1.25), full body, (dynamic pose:1.1)
+standing, pointing up, finger pointing up, (pointing up:1.15), full body, (dynamic pose:1.15)
+standing, hair flip, (hair flip:1.15), full body, (dynamic pose:1.1)
+standing, arms under breasts, (arched back:1.15), full body, (dynamic pose:1.05)
+standing, side view, hand on thigh, (hip tilt:1.15), three-quarter view, (dynamic pose:1.1)
+standing, hand sliding down body, (hip tilt:1.15), full body, (dynamic pose:1.15)
+standing, balancing on one leg, stretching, (tiptoes:1.15), (dynamic pose:1.2), full body
+standing, hands behind back, (arched back:1.15), full body, (dynamic pose:1.05)
+standing, blowing kiss, (blowing kiss:1.2), full body, (dynamic pose:1.1)
+standing, self hug, (arched back:1.1), full body, (dynamic pose:1.05)
+standing, hands behind head, (arched back:1.15), full body, (dynamic pose:1.15)
+standing, hip tilt, (hip tilt:1.2), full body, (dynamic pose:1.1)
+standing, hand in hair, (hair flip:1.1), full body, (dynamic pose:1.05)
+standing, arms above head, (arched back:1.2), full body, (dynamic pose:1.15)
+standing, side view, hair over face, (hip tilt:1.15), three-quarter view, (dynamic pose:1.05)
+standing, leaning back, tiptoes, (tiptoes:1.15), (arched back:1.15), (dynamic pose:1.15)
+chair sit, legs crossed, (legs crossed:1.1), elegant, (dynamic pose:1.05)
+floor sit, hugging knees, (legs crossed:1.05), full body, (dynamic pose:1.05)
+desk sit, legs crossed, (legs crossed:1.1), three-quarter view, (dynamic pose:1.05)
+seiza, arched back, (arched back:1.2), (dynamic pose:1.05)
+chair sit, backwards, (hip tilt:1.15), perspective, (dynamic pose:1.1)
+chair sit, legs spread, (legs apart:1.15), full body, (dynamic pose:1.1)
+stair sit, head tilt, (hip tilt:1.1), three-quarter view, (dynamic pose:1.05)
+floor sit, leaning back on arms, (arched back:1.15), full body, (dynamic pose:1.05)
+sofa sit, legs spread, (legs apart:1.15), (dynamic pose:1.1), wide shot
+sit, knees up, (legs apart:1.1), full body, (dynamic pose:1.05)
+bed edge sit, hands on knees, (hip tilt:1.1), full body, (dynamic pose:1.05)
+floor sit, legs open, arms back, (legs apart:1.15), (arched back:1.1), (dynamic pose:1.1)
+chair sit, gripping seat, (hip tilt:1.15), (dynamic pose:1.1), perspective
+wall sit, back to wall, (arched back:1.1), full body, (dynamic pose:1.05)
+sit, head on palm, (hip tilt:1.1), (dynamic pose:1.05), three-quarter view
+sit, finger on lips, (finger on lips:1.2), (dynamic pose:1.05)
+chair sit, side view, (legs crossed:1.1), three-quarter view, (dynamic pose:1.05)
+sit, head back, (arched back:1.15), (dynamic pose:1.05)
+sit, one knee up, one leg down, (legs apart:1.1), (dynamic pose:1.05), three-quarter view
+sit, arms around knees, (legs crossed:1.05), (dynamic pose:1.05)
+bed lie, arm above head, (arched back:1.15), flowing motion, (dynamic pose:1.05)
+sofa recline, one leg bent, (body twist:1.15), (dynamic pose:1.1), three-quarter view
+side lie, hand supporting head, (body twist:1.1), relaxed, (dynamic pose:1.05)
+prone, arched back, (arched back:1.25), (dynamic pose:1.1)
+recline, hair down, (hair flip:1.1), flowing motion, (dynamic pose:1.05)
+bed lie, ankles crossed, (legs crossed:1.1), full body, (dynamic pose:1.05)
+supine, legs up against wall, (foreshortening:1.25), full body, (dynamic pose:1.05)
+lie, hand on stomach, (arched back:1.1), relaxed, (dynamic pose:1.05)
+side lie, one leg raised, (body twist:1.15), (dynamic pose:1.1)
+lie, head back, (arched back:1.15), (dynamic pose:1.05)
+recline, arms above head, (arched back:1.15), flowing motion, (dynamic pose:1.05)
+supine, legs bent, (legs apart:1.1), full body, (dynamic pose:1.05)
+lie, hand in hair, (hair flip:1.15), relaxed, (dynamic pose:1.05)
+prone, smile, (arched back:1.1), (dynamic pose:1.05)
+side lie, hand supporting face, (body twist:1.1), (dynamic pose:1.05)
+lie, legs crossed playful, (legs crossed:1.1), (dynamic pose:1.05)
+lie, hair spread, (hair flip:1.1), flowing motion, (dynamic pose:1.05)
+lie, arm stretched forward, (foreshortening:1.15), (dynamic pose:1.05)
+lie, legs bent apart, (legs apart:1.15), (dynamic pose:1.05)
+lie, chest forward, (arched back:1.2), (dynamic pose:1.1)
+side lie, hand between thighs, (legs apart:1.15), (dynamic pose:1.05)
+kneeling, arched back, (arched back:1.25), (dynamic pose:1.15)
+crawling forward, (foreshortening:1.15), (dynamic pose:1.25)
+kneeling, legs apart, (legs apart:1.15), (dynamic pose:1.15)
+kneeling, looking over shoulder, (body twist:1.2), (dynamic pose:1.1)
+kneeling, hand on chest, (arched back:1.15), (dynamic pose:1.05)
+kneeling, arms stretched forward, (foreshortening:1.15), (dynamic pose:1.1)
+kneeling, arched back, head tilt, (arched back:1.25), (dynamic pose:1.15)
+kneeling, smile, (arched back:1.1), (dynamic pose:1.05)
+kneeling, chin on hand, (hip tilt:1.1), (dynamic pose:1.05)
+kneeling, head down, (legs apart:1.1), (dynamic pose:1.05)
+kneeling, chest forward, (arched back:1.2), (dynamic pose:1.1)
+kneeling, bedroom eyes, (arched back:1.15), (dynamic pose:1.1)
+kneeling on bed, arched back, (arched back:1.25), (dynamic pose:1.15)
+kneeling, tilted hips, (hip tilt:1.2), (dynamic pose:1.1)
+kneeling, back arched (floor), (arched back:1.25), (dynamic pose:1.15)
+kneeling, biting finger, (biting lip:1.2), (dynamic pose:1.1)
+kneeling, leaning on bed, (arched back:1.15), (dynamic pose:1.05)
+kneeling, arms around body, (arched back:1.15), (dynamic pose:1.05)
+kneeling, head back, (arched back:1.2), (dynamic pose:1.1)
+leaning against wall, (arched back:1.1), full body, (dynamic pose:1.05)
+walking, confident stride, (dynamic pose:1.25), full body
+finger on lips, (finger on lips:1.2), (dynamic pose:1.05)
+leaning forward, elbows on knees, (foreshortening:1.15), (dynamic pose:1.1)
+hands behind head, (arched back:1.15), (dynamic pose:1.15), full body
+finger pulling lip, (finger on lips:1.15), (dynamic pose:1.05)
+leaning on table, smile, (body twist:1.15), (dynamic pose:1.1)
+hand sliding down thigh, (hip tilt:1.15), (dynamic pose:1.1)
+biting lip, (biting lip:1.2), (dynamic pose:1.05)
+leaning on chair, arms crossed, (body twist:1.1), (dynamic pose:1.05)
+hand tugging skirt, (hip tilt:1.15), (dynamic pose:1.05)
+dangling shoe, (dangling shoe:1.15), (foreshortening:1.1), (dynamic pose:1.05)
+falling shoulder strap, (falling shoulder strap:1.15), (dynamic pose:1.05)
+leaning against doorframe, (hip tilt:1.15), full body, (dynamic pose:1.05)
+licking lips, (licking lips:1.2), (dynamic pose:1.05)
