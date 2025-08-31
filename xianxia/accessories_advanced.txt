@@ -1,5 +1,4 @@
 ancient guqin with seven strings
-bamboo flute with melodious tone
 jade pendant with protective power
 silk fan with painted landscapes
 oil paper umbrella with waterproof coating
@@ -48,27 +47,13 @@ metal singing bowl with harmonic overtones
 wooden fish with rhythmic knocking
 bamboo clapper with sharp percussion
 stone chimes with natural tones
-wind harp with atmospheric music
 rain stick with water sounds
 thunder drum with storm simulation
 ocean drum with wave rhythms
 forest sounds with nature recording
 bird whistle with avian calls
-animal horn with hunting signals
 conch shell with oceanic voice
-bamboo horn with hollow resonance
-pipa lute with four strings
-erhu violin with two strings
-dizi bamboo flute with membrane
-xiao vertical bamboo flute
-guzheng zither with many strings
-yangqin hammered dulcimer
-sheng mouth organ with bamboo pipes
-suona horn with loud piercing sound
-ruan moon guitar with round body
-liuqin willow leaf lute
 sanxian three-string plucked instrument
-konghou ancient harp
 bianzhong bronze bell set
 gong bronze percussion instrument
 bian drum with wooden frame
@@ -76,7 +61,6 @@ muyu wooden fish percussion
 tanggu ceremonial drum
 diangu small hand drum
 luo small gong with clear tone
-qin seven-string ancient zither
 music box with mechanical melody
 wind-up toy with clockwork movement
 mechanical bird with automated song
